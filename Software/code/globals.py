@@ -1,0 +1,4 @@
+# camera resolution
+XRESOLUTION = 1920
+YRESOLUTION = 1080 
+XCROPPED = 1920 - 750*2
