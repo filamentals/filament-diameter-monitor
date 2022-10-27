@@ -31,9 +31,9 @@ Currently this project gives live read-outs of filaments up to 5 mm of thickness
 For the instructions of how to run the device click [here](Documentation/instructions/measurement_instructions.md)
 
 ### **Developers:**
-     Ana Martins: @1760068
-     Yoldas Cinemre: @64795611
-     Zach Meredith: @1069713
+     Ana Martins: @anaismartins
+     Yoldas Cinemre: @YoldasCinemre
+     Zach Meredith: @meredizp
 
 ### **License:**
 For the license see [here](LICENSE).
